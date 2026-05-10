@@ -22,7 +22,7 @@ export default function Footer() {
             <div className="font-display text-3xl text-cinema-gold tracking-widest mb-6">PARMAR</div>
             <p className="font-body text-cinema-gray leading-relaxed mb-8 max-w-sm">
               Cinematic storyteller crafting visual narratives that move hearts and inspire minds.
-              Based in Jabalpur, serving across India.
+              Based in Indore, serving across India.
             </p>
             <div className="flex items-center gap-4">
               <a
